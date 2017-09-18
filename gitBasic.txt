@@ -1,0 +1,18 @@
+git init
+git status
+git add                              //i m staging file
+git commit -m MESSAGE		     //stable checkpoint
+git log
+git diff
+head -> pointer
+git checkout VERSION NUMBER		//older commit
+ls -a   it show some hidden files in .git format 
+all the objects are store in this file
+git ls-tree master --> all the files
+sha one hash
+git remote -v  ---> list out all remote
+git push 
+git clone url
+git checkout -b 
+git pull 
+git merge
